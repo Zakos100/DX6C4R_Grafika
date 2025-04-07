@@ -1,9 +1,9 @@
-#include "scene.h"
+#include <scene.h>
 #include <GL/gl.h>
 #include <obj/model.h>
 #include <obj/load.h>
 #include <obj/draw.h>
-#include "texture.h"
+#include <texture.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

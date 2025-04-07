@@ -1,5 +1,4 @@
-#include "camera.h"
-
+#include <camera.h>
 #include <GL/gl.h>
 #include <stdio.h>
 #include <math.h>
