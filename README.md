@@ -6,4 +6,5 @@ WASD: Mozgás a megadott téren belül \
 F1: Menü \
 Egér: Körültekintés \
 LMB: Kattintás, ezzel lehet vágni \
-+,-: Fényerő állítása
++,-: Fényerő állítása \
+ESC: Kilépés a játékból
