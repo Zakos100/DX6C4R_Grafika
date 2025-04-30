@@ -2,11 +2,11 @@ Ez a játék a Fruit Ninja által ihletett, de sajátos újításokat és mozgá
 Ebben a játékban egy meghatározott térben tudsz mozogni.
 
 Játékmenet: \
-A játék egyre nehezedik, ahogy nő a pontszám: \ 
-- Kezdeti szinten csak gyümölcsök jelennek meg, lassabb tempóban. \
-- Ahogy haladunk előre, a gyümölcsök egyre gyorsabban bukkannak fel, akár több egyszerre is, különböző irányból. \
-- Egy adott pontszám elérése után a játék bombákat is dob a levegőbe — ezekre soha nem szabad rákattintani, mert azonnal véget vetnek a játéknak. \
-- Ugyanígy játék véget ér akkor is, ha egyetlen gyümölcs leesik a földre anélkül, hogy elvágtuk volna. \
+A játék egyre nehezedik, ahogy nő a pontszám: 
+- Kezdeti szinten csak gyümölcsök jelennek meg, lassabb tempóban. 
+- Ahogy haladunk előre, a gyümölcsök egyre gyorsabban bukkannak fel, akár több egyszerre is, különböző irányból. 
+- Egy adott pontszám elérése után a játék bombákat is dob a levegőbe — ezekre soha nem szabad rákattintani, mert azonnal véget vetnek a játéknak. 
+- Ugyanígy játék véget ér akkor is, ha egyetlen gyümölcs leesik a földre anélkül, hogy elvágtuk volna. 
 - A játék visszajelzést ad a játékos teljesítményéről a pontszám alapján, amely a kijelzőn jelenik meg a végén.\
   
 Irányítások: \
