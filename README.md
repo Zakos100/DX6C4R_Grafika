@@ -1,5 +1,6 @@
 Ez a játék a Fruit Ninja által ihletett, de sajátos újításokat és mozgásszabadságot kínáló akció-reakció játék.
-Ebben a játékban egy meghatározott térben tudsz mozogni. \
+Ebben a játékban egy meghatározott térben tudsz mozogni.
+
 Játékmenet: \
 A játék egyre nehezedik, ahogy nő a pontszám: \ 
 - Kezdeti szinten csak gyümölcsök jelennek meg, lassabb tempóban. \
